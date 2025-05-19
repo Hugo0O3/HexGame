@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hexgame.client",
+    "\\hexgame.client\\src",
+    "\\hexgame.client\\src\\app",
+    "\\hexgame.client\\src\\app\\components",
+    "\\hexgame.client\\src\\app\\components\\game",
+    "\\hexgame.client\\src\\app\\components\\menu"
+  ],
+  "SelectedNode": "\\hexgame.client\\src\\app\\app.component.html",
+  "PreviewInSolutionExplorer": false
+}

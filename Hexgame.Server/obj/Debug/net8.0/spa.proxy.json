@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60616",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\32479\\OneDrive - student.helmo.be\\Bureau\\Projet Github\\CSharpFun\\Hexgame\\Hexgame.Server\\..\\hexgame.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
